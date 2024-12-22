@@ -1,2 +1,1 @@
-# FPU-in-Verilog
-Hello World!
+# Dual Core Processor in Verilog
