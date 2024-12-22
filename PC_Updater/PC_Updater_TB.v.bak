@@ -1,0 +1,47 @@
+module PC_Updater_TB();
+
+    // Testbench variables
+    reg [31:0] PC;
+    reg [31:0] Imm;
+    reg CTRL;
+    wire [31:0] PC_new;
+
+    // Instantiate the PC_Updater module
+    PC_Updater uut (
+        .PC(PC),
+        .Imm(Imm),
+        .CTRL(CTRL),
+        .PC_new(PC_new)
+    );
+
+    // Testbench logic
+    initial begin
+        // Test case 1: Normal case (CTRL = 0)
+        PC = 32'h0000_0000; // Initial PC
+        Imm = 32'h0000_0000; // Immediate value
+        CTRL = 1'b0; // Normal case
+        #10; // Wait for 10 time units
+
+        // Test case 2: Branch case (CTRL = 1)
+        PC = 32'h0000_0004; // Update PC
+        Imm = 32'h0000_0008; // Immediate value (already doubled)
+        CTRL = 1'b1; // Branch case
+        #10; // Wait for 10 time units
+
+        // Test case 3: Branch with negative Imm (CTRL = 1)
+        PC = 32'h0000_0010; // Update PC
+        Imm = 32'hFFFF_FFF8; // Negative immediate value (already doubled)
+        CTRL = 1'b1; // Branch case
+        #10; // Wait for 10 time units
+
+        // Test case 4: Normal case again (CTRL = 0)
+        PC = 32'h0000_0020; // Update PC
+        Imm = 32'h0000_0000; // Immediate value
+        CTRL = 1'b0; // Normal case
+        #10; // Wait for 10 time units
+
+        // End simulation
+        $stop;
+    end
+
+endmodule

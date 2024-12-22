@@ -1,0 +1,16 @@
+module Signed_Extender(Imm12, Imm13, Imm20, Imm21, CTRL, Imm32);
+
+input [11:0] Imm12;
+input [12:0] Imm13;
+input [19:0] Imm20;
+input [20:0] Imm21;
+input [1:0] CTRL;
+
+output [31:0] Imm32;
+
+always @(*)
+begin
+      case (CTRL)
+		
+		        2'b00: //Imm12
+				  Imm32 = 

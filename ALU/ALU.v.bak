@@ -1,0 +1,33 @@
+module ALU (ALU_a,ALU_b,CTRL,ALU_c);
+
+input [31:0] ALU_a,ALU_b;
+input [3:0] CTRL;
+
+output [31:0] ALU_c;
+
+always @(*)
+begin
+      case(CTRL)
+		
+		           3'b000:
+					  begin
+					         
+					  end
+					  
+					  3'b001:
+					  3'b010:
+					  3'b011:
+					  3'b100:
+					  3'b0101:
+					  3'b0110:
+					  3'b0111:
+					  3'b1000:
+					  3'b1001:
+					  3'b1010:
+					  deafult:
+					  
+		endcase
+end
+
+endmodule
+

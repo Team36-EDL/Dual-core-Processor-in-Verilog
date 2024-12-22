@@ -1,0 +1,79 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/kajal/OneDrive/Desktop/EDL/Verilog/RF_32/simulation/modelsim
+vDFF_pos
+Z1 !s110 1733940422
+!i10b 1
+!s100 8WXPZ[jR[L5>^zfX^JGAK1
+IXAWi>dMhaNZ@zj12C1hZW0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1733878527
+8C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/RF_32/dff_pos.v
+FC:/Users/kajal/OneDrive/Desktop/EDL/Verilog/RF_32/dff_pos.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1733940422.000000
+!s107 C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/RF_32/dff_pos.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/RF_32|C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/RF_32/dff_pos.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/RF_32
+Z7 tCvgOpt 0
+n@d@f@f_pos
+vRF_32
+R1
+!i10b 1
+!s100 1@jKTaQdNl1YEc;LB4FoY0
+IgY=n;4h;G]9Ve[U_g0QhU0
+R2
+R0
+w1733940010
+8C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/RF_32/RF_32.v
+FC:/Users/kajal/OneDrive/Desktop/EDL/Verilog/RF_32/RF_32.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/RF_32/RF_32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/RF_32|C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/RF_32/RF_32.v|
+!i113 1
+R5
+R6
+R7
+n@r@f_32
+vRF_32_TB
+R1
+!i10b 1
+!s100 aSKHE1@L50IGjk@6mNO5b2
+I01YHe:;LhQ26`TiH:SFZ91
+R2
+R0
+w1733940277
+8C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/RF_32/RF_32_TB.v
+FC:/Users/kajal/OneDrive/Desktop/EDL/Verilog/RF_32/RF_32_TB.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/RF_32/RF_32_TB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/RF_32|C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/RF_32/RF_32_TB.v|
+!i113 1
+R5
+R6
+R7
+n@r@f_32_@t@b

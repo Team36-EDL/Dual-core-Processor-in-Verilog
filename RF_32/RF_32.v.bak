@@ -1,0 +1,5 @@
+module RF_32 (RA, RB, RD_en, WR_en, QA, QB);
+
+input RA, RB, RD_en, WR_en;
+output QA,QB;
+

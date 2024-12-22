@@ -1,0 +1,9 @@
+module dff_pos(D, CLK, Q);
+
+input D,CLK;
+output reg Q;
+
+always @(posedge CLK)
+     Q <= D;
+ 
+endmodule 

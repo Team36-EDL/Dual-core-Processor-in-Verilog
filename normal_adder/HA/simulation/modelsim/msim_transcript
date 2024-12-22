@@ -1,0 +1,55 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do HA_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/normal_adder/HA {C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/normal_adder/HA/HA.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:48:23 on Dec 20,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/normal_adder/HA" C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/normal_adder/HA/HA.v 
+# -- Compiling module HA
+# 
+# Top level modules:
+# 	HA
+# End time: 13:48:23 on Dec 20,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/normal_adder/HA {C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/normal_adder/HA/HA_TB.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:48:23 on Dec 20,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/normal_adder/HA" C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/normal_adder/HA/HA_TB.v 
+# -- Compiling module HA_TB
+# 
+# Top level modules:
+# 	HA_TB
+# End time: 13:48:24 on Dec 20,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L fiftyfivenm_ver -L rtl_work -L work -voptargs="+acc"  HA_TB
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L fiftyfivenm_ver -L rtl_work -L work -voptargs=""+acc"" HA_TB 
+# Start time: 13:48:24 on Dec 20,2024
+# Loading work.HA_TB
+# Loading work.HA
+# 
+# add wave *
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: kajal  Hostname: KAUSTAV123  ProcessID: 20980
+#           Attempting to use alternate WLF file "./wlftcat3qk".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftcat3qk
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $finish    : C# End time: 13:48:55 on Dec 20,2024, Elapsed time: 0:00:36
+# Errors: 0, Warnings: 0
+ps  Iteration: 0  Instance: /HA_TB
+# End time: 13:49:05 on Dec 20,2024, Elapsed time: 0:00:41
+# Errors: 0, Warnings: 2

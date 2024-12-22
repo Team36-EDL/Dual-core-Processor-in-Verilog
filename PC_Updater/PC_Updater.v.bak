@@ -1,0 +1,18 @@
+module PC_Updater(
+    input wire [31:0] PC,     // 32-bit input current PC
+    input wire [31:0] Imm,    // 32-bit immediate value
+    input wire CTRL,          // 1-bit control signal
+    output reg [31:0] PC_new  // 32-bit output new PC
+);
+
+    always @(*) begin
+        if (CTRL) begin
+            // Branch case: PC = PC + Imm (Imm is already doubled)
+            PC_new = PC + Imm; 
+        end else begin
+            // Normal case: PC = PC + 2
+            PC_new = PC + 32'd2;
+        end
+    end
+
+endmodule

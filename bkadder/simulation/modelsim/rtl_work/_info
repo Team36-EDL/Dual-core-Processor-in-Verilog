@@ -1,0 +1,55 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/kajal/OneDrive/Desktop/EDL/Verilog/bkadder/simulation/modelsim
+vbkadder
+Z1 !s110 1734258006
+!i10b 1
+!s100 cJXUR@z=m`N;bQ:?cYmY00
+IZ[<SO?E?[PV1nAaLC7Oi10
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1734257136
+8C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/bkadder/bkadder.v
+FC:/Users/kajal/OneDrive/Desktop/EDL/Verilog/bkadder/bkadder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1734258006.000000
+!s107 C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/bkadder/bkadder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/bkadder|C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/bkadder/bkadder.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/bkadder
+Z7 tCvgOpt 0
+vbkadder_TB
+R1
+!i10b 1
+!s100 95@5A4Wk>?dnj@llI[VjD1
+I88CjLFRW;1nY<iV6Kd8dz3
+R2
+R0
+w1734257978
+8C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/bkadder/bkadder_TB.v
+FC:/Users/kajal/OneDrive/Desktop/EDL/Verilog/bkadder/bkadder_TB.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/bkadder/bkadder_TB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/bkadder|C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/bkadder/bkadder_TB.v|
+!i113 1
+R5
+R6
+R7
+nbkadder_@t@b

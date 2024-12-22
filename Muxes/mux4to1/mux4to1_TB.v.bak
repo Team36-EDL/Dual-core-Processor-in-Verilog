@@ -1,0 +1,43 @@
+// Testbench for 4-to-1 Multiplexer
+module tb_mux4to1();
+
+    reg [3:0] a;       // 4 input lines
+    reg [1:0] sel;     // 2-bit select line
+    wire y;            // Output wire
+
+    // Instantiate the multiplexer
+    mux4to1 uut (
+        .a(a),
+        .sel(sel),
+        .y(y)
+    );
+
+    // Stimulus process
+    initial begin
+        // Test Case 1: sel = 00, a[0] = 0
+        a = 4'b0000; sel = 2'b00; #10;
+        // Expected: y = a[0] = 0
+
+        // Test Case 2: sel = 01, a[1] = 1
+        a = 4'b0010; sel = 2'b01; #10;
+        // Expected: y = a[1] = 1
+
+        // Test Case 3: sel = 10, a[2] = 1
+        a = 4'b0100; sel = 2'b10; #10;
+        // Expected: y = a[2] = 1
+
+        // Test Case 4: sel = 11, a[3] = 1
+        a = 4'b1000; sel = 2'b11; #10;
+        // Expected: y = a[3] = 1
+
+        // Test Case 5: sel = 00, a[0] = 1
+        a = 4'b0001; sel = 2'b00; #10;
+        // Expected: y = a[0] = 1
+
+        // Test Case 6: sel = 10, a[2] = 0
+        a = 4'b1010; sel = 2'b10; #10;
+        // Expected: y = a[2] = 0
+
+    end
+
+endmodule

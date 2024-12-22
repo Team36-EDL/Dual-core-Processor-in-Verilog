@@ -1,0 +1,9 @@
+|HA
+A => Y.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+

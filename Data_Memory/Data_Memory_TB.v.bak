@@ -1,0 +1,104 @@
+module Data_Memory_TB;
+
+    // Declare inputs as reg (since we're driving them)
+    reg [31:0] Add, D, Rd;
+    reg RD_en, WR_en, CLK;
+    reg [1:0] mode;
+    
+    // Declare output as wire
+    wire [31:0] Q;
+
+    // Instantiate the Data_Memory module
+    Data_Memory uut (
+        .RD_en(RD_en),
+        .WR_en(WR_en),
+        .mode(mode),
+        .Add(Add),
+        .Rd(Rd),
+        .D(D),
+        .Q(Q),
+        .CLK(CLK)
+    );
+
+    // Clock generation (100 ns period)
+    always begin
+        #5 CLK = ~CLK;  // Toggle clock every 5 ns (100 ns period)
+    end
+
+    // Initialize signals
+    initial begin
+        // Initialize clock
+        CLK = 0;
+        
+        // Initialize inputs
+        RD_en = 0;
+        WR_en = 0;
+        mode = 2'b00;
+        Add = 32'b0;
+        Rd = 32'b0;
+        D = 32'b0;
+        
+        // Test Write Operation
+        #10;
+        // Write lower byte to address 0 (D = 8'hAA)
+        mode = 2'b00;
+        WR_en = 1;
+        Add = 32'h0;
+        D = 32'hAA;
+        #10;
+        WR_en = 0;
+
+        // Test Read Operation (should return 32'h000000AA)
+        #10;
+        mode = 2'b00; // Read lower byte
+        RD_en = 1;
+        Rd = 32'h0;   // Address 0
+        #10;
+        RD_en = 0;
+
+        // Test Write Half Word
+        #10;
+        mode = 2'b01; // Write half word
+        WR_en = 1;
+        Add = 32'h1;
+        D = 32'h1234;
+        #10;
+        WR_en = 0;
+
+        // Test Read Half Word (should return 32'h00001234)
+        #10;
+        mode = 2'b01; // Read half word
+        RD_en = 1;
+        Rd = 32'h1;   // Address 1
+        #10;
+        RD_en = 0;
+
+        // Test Write Full Word
+        #10;
+        mode = 2'b11; // Write full word
+        WR_en = 1;
+        Add = 32'h2;
+        D = 32'hDEADBEEF;
+        #10;
+        WR_en = 0;
+
+        // Test Read Full Word (should return 32'hDEADBEEF)
+        #10;
+        mode = 2'b11; // Read full word
+        RD_en = 1;
+        Rd = 32'h2;   // Address 2
+        #10;
+        RD_en = 0;
+
+        // End simulation
+        #20;
+        $finish;
+    end
+
+    // Monitor the output (Q) during simulation
+    initial begin
+        $monitor("Time = %0t, RD_en = %b, WR_en = %b, mode = %b, Add = %h, Rd = %h, D = %h, Q = %h", 
+                 $time, RD_en, WR_en, mode, Add, Rd, D, Q);
+    end
+
+endmodule

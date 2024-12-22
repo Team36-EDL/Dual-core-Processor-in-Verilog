@@ -1,0 +1,52 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do FA_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/normal_adder/FA {C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/normal_adder/FA/FA.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 14:37:22 on Dec 20,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/normal_adder/FA" C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/normal_adder/FA/FA.v 
+# -- Compiling module FA
+# 
+# Top level modules:
+# 	FA
+# End time: 14:37:22 on Dec 20,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/normal_adder/FA {C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/normal_adder/FA/FA_TB.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 14:37:22 on Dec 20,2024
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/normal_adder/FA" C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/normal_adder/FA/FA_TB.v 
+# -- Compiling module FA_TB
+# 
+# Top level modules:
+# 	FA_TB
+# End time: 14:37:22 on Dec 20,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L fiftyfivenm_ver -L rtl_work -L work -voptargs="+acc"  FA_TB
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L fiftyfivenm_ver -L rtl_work -L work -voptargs=""+acc"" FA_TB 
+# Start time: 14:37:22 on Dec 20,2024
+# Loading work.FA_TB
+# Loading work.FA
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $finish    : C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/normal_adder/FA/FA_TB.v(27)
+#    Time: 80 ps  Iteration: 0  Instance: /FA_TB
+# 1
+# Break in Module FA_TB at C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/normal_adder/FA/FA_TB.v line 27
+# End time: 14:38:14 on Dec 20,2024, Elapsed time: 0:00:52
+# Errors: 0, Warnings: 0

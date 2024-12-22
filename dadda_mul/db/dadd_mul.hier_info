@@ -1,0 +1,5270 @@
+|dadd_mul
+A[0] => ~NO_FANOUT~
+A[1] => ~NO_FANOUT~
+A[2] => ~NO_FANOUT~
+A[3] => product_terms.IN0
+A[3] => product_terms.IN0
+A[3] => product_terms.IN0
+A[3] => product_terms.IN0
+A[3] => product_terms.IN0
+A[3] => product_terms.IN0
+A[3] => product_terms.IN0
+A[3] => product_terms.IN0
+A[3] => product_terms.IN0
+A[3] => product_terms.IN0
+A[3] => product_terms.IN0
+A[3] => product_terms.IN0
+A[3] => product_terms.IN0
+A[3] => product_terms.IN0
+A[3] => product_terms.IN0
+A[4] => product_terms.IN0
+A[4] => product_terms.IN0
+A[4] => product_terms.IN0
+A[4] => product_terms.IN0
+A[4] => product_terms.IN0
+A[4] => product_terms.IN0
+A[4] => product_terms.IN0
+A[4] => product_terms.IN0
+A[4] => product_terms.IN0
+A[4] => product_terms.IN0
+A[4] => product_terms.IN0
+A[4] => product_terms.IN0
+A[4] => product_terms.IN0
+A[4] => product_terms.IN0
+A[4] => product_terms.IN0
+A[4] => product_terms.IN0
+A[4] => product_terms.IN0
+A[4] => product_terms.IN0
+A[5] => product_terms.IN0
+A[5] => product_terms.IN0
+A[5] => product_terms.IN0
+A[5] => product_terms.IN0
+A[5] => product_terms.IN0
+A[5] => product_terms.IN0
+A[5] => product_terms.IN0
+A[5] => product_terms.IN0
+A[5] => product_terms.IN0
+A[5] => product_terms.IN0
+A[5] => product_terms.IN0
+A[5] => product_terms.IN0
+A[5] => product_terms.IN0
+A[5] => product_terms.IN0
+A[5] => product_terms.IN0
+A[5] => product_terms.IN0
+A[5] => product_terms.IN0
+A[5] => product_terms.IN0
+A[5] => product_terms.IN0
+A[5] => product_terms.IN0
+A[6] => product_terms.IN0
+A[6] => product_terms.IN0
+A[6] => product_terms.IN0
+A[6] => product_terms.IN0
+A[6] => product_terms.IN0
+A[6] => product_terms.IN0
+A[6] => product_terms.IN0
+A[6] => product_terms.IN0
+A[6] => product_terms.IN0
+A[6] => product_terms.IN0
+A[6] => product_terms.IN0
+A[6] => product_terms.IN0
+A[6] => product_terms.IN0
+A[6] => product_terms.IN0
+A[6] => product_terms.IN0
+A[6] => product_terms.IN0
+A[6] => product_terms.IN0
+A[6] => product_terms.IN0
+A[6] => product_terms.IN0
+A[6] => product_terms.IN0
+A[6] => product_terms.IN0
+A[7] => product_terms.IN0
+A[7] => product_terms.IN0
+A[7] => product_terms.IN0
+A[7] => product_terms.IN0
+A[7] => product_terms.IN0
+A[7] => product_terms.IN0
+A[7] => product_terms.IN0
+A[7] => product_terms.IN0
+A[7] => product_terms.IN0
+A[7] => product_terms.IN0
+A[7] => product_terms.IN0
+A[7] => product_terms.IN0
+A[7] => product_terms.IN0
+A[7] => product_terms.IN0
+A[7] => product_terms.IN0
+A[7] => product_terms.IN0
+A[7] => product_terms.IN0
+A[7] => product_terms.IN0
+A[7] => product_terms.IN0
+A[7] => product_terms.IN0
+A[7] => product_terms.IN0
+A[8] => product_terms.IN0
+A[8] => product_terms.IN0
+A[8] => product_terms.IN0
+A[8] => product_terms.IN0
+A[8] => product_terms.IN0
+A[8] => product_terms.IN0
+A[8] => product_terms.IN0
+A[8] => product_terms.IN0
+A[8] => product_terms.IN0
+A[8] => product_terms.IN0
+A[8] => product_terms.IN0
+A[8] => product_terms.IN0
+A[8] => product_terms.IN0
+A[8] => product_terms.IN0
+A[8] => product_terms.IN0
+A[8] => product_terms.IN0
+A[8] => product_terms.IN0
+A[8] => product_terms.IN0
+A[8] => product_terms.IN0
+A[8] => product_terms.IN0
+A[8] => product_terms.IN0
+A[9] => product_terms.IN0
+A[9] => product_terms.IN0
+A[9] => product_terms.IN0
+A[9] => product_terms.IN0
+A[9] => product_terms.IN0
+A[9] => product_terms.IN0
+A[9] => product_terms.IN0
+A[9] => product_terms.IN0
+A[9] => product_terms.IN0
+A[9] => product_terms.IN0
+A[9] => product_terms.IN0
+A[9] => product_terms.IN0
+A[9] => product_terms.IN0
+A[9] => product_terms.IN0
+A[9] => product_terms.IN0
+A[9] => product_terms.IN0
+A[9] => product_terms.IN0
+A[9] => product_terms.IN0
+A[9] => product_terms.IN0
+A[9] => product_terms.IN0
+A[9] => product_terms.IN0
+A[10] => product_terms.IN0
+A[10] => product_terms.IN0
+A[10] => product_terms.IN0
+A[10] => product_terms.IN0
+A[10] => product_terms.IN0
+A[10] => product_terms.IN0
+A[10] => product_terms.IN0
+A[10] => product_terms.IN0
+A[10] => product_terms.IN0
+A[10] => product_terms.IN0
+A[10] => product_terms.IN0
+A[10] => product_terms.IN0
+A[10] => product_terms.IN0
+A[10] => product_terms.IN0
+A[10] => product_terms.IN0
+A[10] => product_terms.IN0
+A[10] => product_terms.IN0
+A[10] => product_terms.IN0
+A[10] => product_terms.IN0
+A[10] => product_terms.IN0
+A[10] => product_terms.IN0
+A[11] => product_terms.IN0
+A[11] => product_terms.IN0
+A[11] => product_terms.IN0
+A[11] => product_terms.IN0
+A[11] => product_terms.IN0
+A[11] => product_terms.IN0
+A[11] => product_terms.IN0
+A[11] => product_terms.IN0
+A[11] => product_terms.IN0
+A[11] => product_terms.IN0
+A[11] => product_terms.IN0
+A[11] => product_terms.IN0
+A[11] => product_terms.IN0
+A[11] => product_terms.IN0
+A[11] => product_terms.IN0
+A[11] => product_terms.IN0
+A[11] => product_terms.IN0
+A[11] => product_terms.IN0
+A[11] => product_terms.IN0
+A[11] => product_terms.IN0
+A[11] => product_terms.IN0
+A[12] => product_terms.IN0
+A[12] => product_terms.IN0
+A[12] => product_terms.IN0
+A[12] => product_terms.IN0
+A[12] => product_terms.IN0
+A[12] => product_terms.IN0
+A[12] => product_terms.IN0
+A[12] => product_terms.IN0
+A[12] => product_terms.IN0
+A[12] => product_terms.IN0
+A[12] => product_terms.IN0
+A[12] => product_terms.IN0
+A[12] => product_terms.IN0
+A[12] => product_terms.IN0
+A[12] => product_terms.IN0
+A[12] => product_terms.IN0
+A[12] => product_terms.IN0
+A[12] => product_terms.IN0
+A[12] => product_terms.IN0
+A[12] => product_terms.IN0
+A[12] => product_terms.IN0
+A[13] => product_terms.IN0
+A[13] => product_terms.IN0
+A[13] => product_terms.IN0
+A[13] => product_terms.IN0
+A[13] => product_terms.IN0
+A[13] => product_terms.IN0
+A[13] => product_terms.IN0
+A[13] => product_terms.IN0
+A[13] => product_terms.IN0
+A[13] => product_terms.IN0
+A[13] => product_terms.IN0
+A[13] => product_terms.IN0
+A[13] => product_terms.IN0
+A[13] => product_terms.IN0
+A[13] => product_terms.IN0
+A[13] => product_terms.IN0
+A[13] => product_terms.IN0
+A[13] => product_terms.IN0
+A[13] => product_terms.IN0
+A[13] => product_terms.IN0
+A[13] => product_terms.IN0
+A[14] => product_terms.IN0
+A[14] => product_terms.IN0
+A[14] => product_terms.IN0
+A[14] => product_terms.IN0
+A[14] => product_terms.IN0
+A[14] => product_terms.IN0
+A[14] => product_terms.IN0
+A[14] => product_terms.IN0
+A[14] => product_terms.IN0
+A[14] => product_terms.IN0
+A[14] => product_terms.IN0
+A[14] => product_terms.IN0
+A[14] => product_terms.IN0
+A[14] => product_terms.IN0
+A[14] => product_terms.IN0
+A[14] => product_terms.IN0
+A[14] => product_terms.IN0
+A[14] => product_terms.IN0
+A[14] => product_terms.IN0
+A[14] => product_terms.IN0
+A[14] => product_terms.IN0
+A[15] => product_terms.IN0
+A[15] => product_terms.IN0
+A[15] => product_terms.IN0
+A[15] => product_terms.IN0
+A[15] => product_terms.IN0
+A[15] => product_terms.IN0
+A[15] => product_terms.IN0
+A[15] => product_terms.IN0
+A[15] => product_terms.IN0
+A[15] => product_terms.IN0
+A[15] => product_terms.IN0
+A[15] => product_terms.IN0
+A[15] => product_terms.IN0
+A[15] => product_terms.IN0
+A[15] => product_terms.IN0
+A[15] => product_terms.IN0
+A[15] => product_terms.IN0
+A[15] => product_terms.IN0
+A[15] => product_terms.IN0
+A[15] => product_terms.IN0
+A[15] => product_terms.IN0
+A[15] => product_terms.IN0
+A[16] => product_terms.IN0
+A[16] => product_terms.IN0
+A[16] => product_terms.IN0
+A[16] => product_terms.IN0
+A[16] => product_terms.IN0
+A[16] => product_terms.IN0
+A[16] => product_terms.IN0
+A[16] => product_terms.IN0
+A[16] => product_terms.IN0
+A[16] => product_terms.IN0
+A[16] => product_terms.IN0
+A[16] => product_terms.IN0
+A[16] => product_terms.IN0
+A[16] => product_terms.IN0
+A[16] => product_terms.IN0
+A[16] => product_terms.IN0
+A[16] => product_terms.IN0
+A[16] => product_terms.IN0
+A[16] => product_terms.IN0
+A[16] => product_terms.IN0
+A[16] => product_terms.IN0
+A[17] => product_terms.IN0
+A[17] => product_terms.IN0
+A[17] => product_terms.IN0
+A[17] => product_terms.IN0
+A[17] => product_terms.IN0
+A[17] => product_terms.IN0
+A[17] => product_terms.IN0
+A[17] => product_terms.IN0
+A[17] => product_terms.IN0
+A[17] => product_terms.IN0
+A[17] => product_terms.IN0
+A[17] => product_terms.IN0
+A[17] => product_terms.IN0
+A[17] => product_terms.IN0
+A[17] => product_terms.IN0
+A[17] => product_terms.IN0
+A[17] => product_terms.IN0
+A[17] => product_terms.IN0
+A[17] => product_terms.IN0
+A[17] => product_terms.IN0
+A[17] => product_terms.IN0
+A[18] => product_terms.IN0
+A[18] => product_terms.IN0
+A[18] => product_terms.IN0
+A[18] => product_terms.IN0
+A[18] => product_terms.IN0
+A[18] => product_terms.IN0
+A[18] => product_terms.IN0
+A[18] => product_terms.IN0
+A[18] => product_terms.IN0
+A[18] => product_terms.IN0
+A[18] => product_terms.IN0
+A[18] => product_terms.IN0
+A[18] => product_terms.IN0
+A[18] => product_terms.IN0
+A[18] => product_terms.IN0
+A[18] => product_terms.IN0
+A[18] => product_terms.IN0
+A[18] => product_terms.IN0
+A[18] => product_terms.IN0
+A[19] => product_terms.IN0
+A[19] => product_terms.IN0
+A[19] => product_terms.IN0
+A[19] => product_terms.IN0
+A[19] => product_terms.IN0
+A[19] => product_terms.IN0
+A[19] => product_terms.IN0
+A[19] => product_terms.IN0
+A[19] => product_terms.IN0
+A[19] => product_terms.IN0
+A[19] => product_terms.IN0
+A[19] => product_terms.IN0
+A[19] => product_terms.IN0
+A[19] => product_terms.IN0
+A[19] => product_terms.IN0
+A[19] => product_terms.IN0
+A[19] => product_terms.IN0
+A[19] => product_terms.IN0
+A[19] => product_terms.IN0
+A[19] => product_terms.IN0
+A[20] => product_terms.IN0
+A[20] => product_terms.IN0
+A[20] => product_terms.IN0
+A[20] => product_terms.IN0
+A[20] => product_terms.IN0
+A[20] => product_terms.IN0
+A[20] => product_terms.IN0
+A[20] => product_terms.IN0
+A[20] => product_terms.IN0
+A[20] => product_terms.IN0
+A[20] => product_terms.IN0
+A[20] => product_terms.IN0
+A[20] => product_terms.IN0
+A[20] => product_terms.IN0
+A[20] => product_terms.IN0
+A[20] => product_terms.IN0
+A[20] => product_terms.IN0
+A[20] => product_terms.IN0
+A[20] => product_terms.IN0
+A[20] => product_terms.IN0
+A[21] => product_terms.IN0
+A[21] => product_terms.IN0
+A[21] => product_terms.IN0
+A[21] => product_terms.IN0
+A[21] => product_terms.IN0
+A[21] => product_terms.IN0
+A[21] => product_terms.IN0
+A[21] => product_terms.IN0
+A[21] => product_terms.IN0
+A[21] => product_terms.IN0
+A[21] => product_terms.IN0
+A[21] => product_terms.IN0
+A[21] => product_terms.IN0
+A[21] => product_terms.IN0
+A[21] => product_terms.IN0
+A[21] => product_terms.IN0
+A[21] => product_terms.IN0
+A[21] => product_terms.IN0
+A[21] => product_terms.IN0
+A[22] => product_terms.IN0
+A[22] => product_terms.IN0
+A[22] => product_terms.IN0
+A[22] => product_terms.IN0
+A[22] => product_terms.IN0
+A[22] => product_terms.IN0
+A[22] => product_terms.IN0
+A[22] => product_terms.IN0
+A[22] => product_terms.IN0
+A[22] => product_terms.IN0
+A[22] => product_terms.IN0
+A[22] => product_terms.IN0
+A[22] => product_terms.IN0
+A[22] => product_terms.IN0
+A[22] => product_terms.IN0
+A[22] => product_terms.IN0
+A[22] => product_terms.IN0
+A[22] => product_terms.IN0
+A[22] => product_terms.IN0
+A[23] => product_terms.IN0
+A[23] => product_terms.IN0
+A[23] => product_terms.IN0
+A[23] => product_terms.IN0
+A[23] => product_terms.IN0
+A[23] => product_terms.IN0
+A[23] => product_terms.IN0
+A[23] => product_terms.IN0
+A[23] => product_terms.IN0
+A[23] => product_terms.IN0
+A[23] => product_terms.IN0
+A[23] => product_terms.IN0
+A[23] => product_terms.IN0
+A[23] => product_terms.IN0
+A[23] => product_terms.IN0
+A[23] => product_terms.IN0
+A[23] => product_terms.IN0
+A[23] => product_terms.IN0
+A[23] => product_terms.IN0
+B[0] => product_terms.IN1
+B[0] => product_terms.IN1
+B[0] => product_terms.IN1
+B[0] => product_terms.IN1
+B[0] => product_terms.IN1
+B[0] => product_terms.IN1
+B[0] => product_terms.IN1
+B[0] => product_terms.IN1
+B[0] => product_terms.IN1
+B[0] => product_terms.IN1
+B[0] => product_terms.IN1
+B[0] => product_terms.IN1
+B[0] => product_terms.IN1
+B[0] => product_terms.IN1
+B[0] => product_terms.IN1
+B[0] => product_terms.IN1
+B[0] => product_terms.IN1
+B[0] => product_terms.IN1
+B[1] => product_terms.IN1
+B[1] => product_terms.IN1
+B[1] => product_terms.IN1
+B[1] => product_terms.IN1
+B[1] => product_terms.IN1
+B[1] => product_terms.IN1
+B[1] => product_terms.IN1
+B[1] => product_terms.IN1
+B[1] => product_terms.IN1
+B[1] => product_terms.IN1
+B[1] => product_terms.IN1
+B[1] => product_terms.IN1
+B[1] => product_terms.IN1
+B[1] => product_terms.IN1
+B[1] => product_terms.IN1
+B[1] => product_terms.IN1
+B[1] => product_terms.IN1
+B[1] => product_terms.IN1
+B[1] => product_terms.IN1
+B[2] => product_terms.IN1
+B[2] => product_terms.IN1
+B[2] => product_terms.IN1
+B[2] => product_terms.IN1
+B[2] => product_terms.IN1
+B[2] => product_terms.IN1
+B[2] => product_terms.IN1
+B[2] => product_terms.IN1
+B[2] => product_terms.IN1
+B[2] => product_terms.IN1
+B[2] => product_terms.IN1
+B[2] => product_terms.IN1
+B[2] => product_terms.IN1
+B[2] => product_terms.IN1
+B[2] => product_terms.IN1
+B[2] => product_terms.IN1
+B[2] => product_terms.IN1
+B[2] => product_terms.IN1
+B[2] => product_terms.IN1
+B[3] => product_terms.IN1
+B[3] => product_terms.IN1
+B[3] => product_terms.IN1
+B[3] => product_terms.IN1
+B[3] => product_terms.IN1
+B[3] => product_terms.IN1
+B[3] => product_terms.IN1
+B[3] => product_terms.IN1
+B[3] => product_terms.IN1
+B[3] => product_terms.IN1
+B[3] => product_terms.IN1
+B[3] => product_terms.IN1
+B[3] => product_terms.IN1
+B[3] => product_terms.IN1
+B[3] => product_terms.IN1
+B[3] => product_terms.IN1
+B[3] => product_terms.IN1
+B[3] => product_terms.IN1
+B[3] => product_terms.IN1
+B[3] => product_terms.IN1
+B[4] => product_terms.IN1
+B[4] => product_terms.IN1
+B[4] => product_terms.IN1
+B[4] => product_terms.IN1
+B[4] => product_terms.IN1
+B[4] => product_terms.IN1
+B[4] => product_terms.IN1
+B[4] => product_terms.IN1
+B[4] => product_terms.IN1
+B[4] => product_terms.IN1
+B[4] => product_terms.IN1
+B[4] => product_terms.IN1
+B[4] => product_terms.IN1
+B[4] => product_terms.IN1
+B[4] => product_terms.IN1
+B[4] => product_terms.IN1
+B[4] => product_terms.IN1
+B[4] => product_terms.IN1
+B[4] => product_terms.IN1
+B[4] => product_terms.IN1
+B[5] => product_terms.IN1
+B[5] => product_terms.IN1
+B[5] => product_terms.IN1
+B[5] => product_terms.IN1
+B[5] => product_terms.IN1
+B[5] => product_terms.IN1
+B[5] => product_terms.IN1
+B[5] => product_terms.IN1
+B[5] => product_terms.IN1
+B[5] => product_terms.IN1
+B[5] => product_terms.IN1
+B[5] => product_terms.IN1
+B[5] => product_terms.IN1
+B[5] => product_terms.IN1
+B[5] => product_terms.IN1
+B[5] => product_terms.IN1
+B[5] => product_terms.IN1
+B[5] => product_terms.IN1
+B[5] => product_terms.IN1
+B[5] => product_terms.IN1
+B[5] => product_terms.IN1
+B[6] => product_terms.IN1
+B[6] => product_terms.IN1
+B[6] => product_terms.IN1
+B[6] => product_terms.IN1
+B[6] => product_terms.IN1
+B[6] => product_terms.IN1
+B[6] => product_terms.IN1
+B[6] => product_terms.IN1
+B[6] => product_terms.IN1
+B[6] => product_terms.IN1
+B[6] => product_terms.IN1
+B[6] => product_terms.IN1
+B[6] => product_terms.IN1
+B[6] => product_terms.IN1
+B[6] => product_terms.IN1
+B[6] => product_terms.IN1
+B[6] => product_terms.IN1
+B[6] => product_terms.IN1
+B[6] => product_terms.IN1
+B[6] => product_terms.IN1
+B[6] => product_terms.IN1
+B[7] => product_terms.IN1
+B[7] => product_terms.IN1
+B[7] => product_terms.IN1
+B[7] => product_terms.IN1
+B[7] => product_terms.IN1
+B[7] => product_terms.IN1
+B[7] => product_terms.IN1
+B[7] => product_terms.IN1
+B[7] => product_terms.IN1
+B[7] => product_terms.IN1
+B[7] => product_terms.IN1
+B[7] => product_terms.IN1
+B[7] => product_terms.IN1
+B[7] => product_terms.IN1
+B[7] => product_terms.IN1
+B[7] => product_terms.IN1
+B[7] => product_terms.IN1
+B[7] => product_terms.IN1
+B[7] => product_terms.IN1
+B[7] => product_terms.IN1
+B[7] => product_terms.IN1
+B[8] => product_terms.IN1
+B[8] => product_terms.IN1
+B[8] => product_terms.IN1
+B[8] => product_terms.IN1
+B[8] => product_terms.IN1
+B[8] => product_terms.IN1
+B[8] => product_terms.IN1
+B[8] => product_terms.IN1
+B[8] => product_terms.IN1
+B[8] => product_terms.IN1
+B[8] => product_terms.IN1
+B[8] => product_terms.IN1
+B[8] => product_terms.IN1
+B[8] => product_terms.IN1
+B[8] => product_terms.IN1
+B[8] => product_terms.IN1
+B[8] => product_terms.IN1
+B[8] => product_terms.IN1
+B[8] => product_terms.IN1
+B[8] => product_terms.IN1
+B[8] => product_terms.IN1
+B[9] => product_terms.IN1
+B[9] => product_terms.IN1
+B[9] => product_terms.IN1
+B[9] => product_terms.IN1
+B[9] => product_terms.IN1
+B[9] => product_terms.IN1
+B[9] => product_terms.IN1
+B[9] => product_terms.IN1
+B[9] => product_terms.IN1
+B[9] => product_terms.IN1
+B[9] => product_terms.IN1
+B[9] => product_terms.IN1
+B[9] => product_terms.IN1
+B[9] => product_terms.IN1
+B[9] => product_terms.IN1
+B[9] => product_terms.IN1
+B[9] => product_terms.IN1
+B[9] => product_terms.IN1
+B[9] => product_terms.IN1
+B[9] => product_terms.IN1
+B[10] => product_terms.IN1
+B[10] => product_terms.IN1
+B[10] => product_terms.IN1
+B[10] => product_terms.IN1
+B[10] => product_terms.IN1
+B[10] => product_terms.IN1
+B[10] => product_terms.IN1
+B[10] => product_terms.IN1
+B[10] => product_terms.IN1
+B[10] => product_terms.IN1
+B[10] => product_terms.IN1
+B[10] => product_terms.IN1
+B[10] => product_terms.IN1
+B[10] => product_terms.IN1
+B[10] => product_terms.IN1
+B[10] => product_terms.IN1
+B[10] => product_terms.IN1
+B[10] => product_terms.IN1
+B[10] => product_terms.IN1
+B[10] => product_terms.IN1
+B[10] => product_terms.IN1
+B[11] => product_terms.IN1
+B[11] => product_terms.IN1
+B[11] => product_terms.IN1
+B[11] => product_terms.IN1
+B[11] => product_terms.IN1
+B[11] => product_terms.IN1
+B[11] => product_terms.IN1
+B[11] => product_terms.IN1
+B[11] => product_terms.IN1
+B[11] => product_terms.IN1
+B[11] => product_terms.IN1
+B[11] => product_terms.IN1
+B[11] => product_terms.IN1
+B[11] => product_terms.IN1
+B[11] => product_terms.IN1
+B[11] => product_terms.IN1
+B[11] => product_terms.IN1
+B[11] => product_terms.IN1
+B[11] => product_terms.IN1
+B[11] => product_terms.IN1
+B[11] => product_terms.IN1
+B[12] => product_terms.IN1
+B[12] => product_terms.IN1
+B[12] => product_terms.IN1
+B[12] => product_terms.IN1
+B[12] => product_terms.IN1
+B[12] => product_terms.IN1
+B[12] => product_terms.IN1
+B[12] => product_terms.IN1
+B[12] => product_terms.IN1
+B[12] => product_terms.IN1
+B[12] => product_terms.IN1
+B[12] => product_terms.IN1
+B[12] => product_terms.IN1
+B[12] => product_terms.IN1
+B[12] => product_terms.IN1
+B[12] => product_terms.IN1
+B[12] => product_terms.IN1
+B[12] => product_terms.IN1
+B[12] => product_terms.IN1
+B[12] => product_terms.IN1
+B[12] => product_terms.IN1
+B[13] => product_terms.IN1
+B[13] => product_terms.IN1
+B[13] => product_terms.IN1
+B[13] => product_terms.IN1
+B[13] => product_terms.IN1
+B[13] => product_terms.IN1
+B[13] => product_terms.IN1
+B[13] => product_terms.IN1
+B[13] => product_terms.IN1
+B[13] => product_terms.IN1
+B[13] => product_terms.IN1
+B[13] => product_terms.IN1
+B[13] => product_terms.IN1
+B[13] => product_terms.IN1
+B[13] => product_terms.IN1
+B[13] => product_terms.IN1
+B[13] => product_terms.IN1
+B[13] => product_terms.IN1
+B[13] => product_terms.IN1
+B[13] => product_terms.IN1
+B[13] => product_terms.IN1
+B[14] => product_terms.IN1
+B[14] => product_terms.IN1
+B[14] => product_terms.IN1
+B[14] => product_terms.IN1
+B[14] => product_terms.IN1
+B[14] => product_terms.IN1
+B[14] => product_terms.IN1
+B[14] => product_terms.IN1
+B[14] => product_terms.IN1
+B[14] => product_terms.IN1
+B[14] => product_terms.IN1
+B[14] => product_terms.IN1
+B[14] => product_terms.IN1
+B[14] => product_terms.IN1
+B[14] => product_terms.IN1
+B[14] => product_terms.IN1
+B[14] => product_terms.IN1
+B[14] => product_terms.IN1
+B[14] => product_terms.IN1
+B[14] => product_terms.IN1
+B[14] => product_terms.IN1
+B[15] => product_terms.IN1
+B[15] => product_terms.IN1
+B[15] => product_terms.IN1
+B[15] => product_terms.IN1
+B[15] => product_terms.IN1
+B[15] => product_terms.IN1
+B[15] => product_terms.IN1
+B[15] => product_terms.IN1
+B[15] => product_terms.IN1
+B[15] => product_terms.IN1
+B[15] => product_terms.IN1
+B[15] => product_terms.IN1
+B[15] => product_terms.IN1
+B[15] => product_terms.IN1
+B[15] => product_terms.IN1
+B[15] => product_terms.IN1
+B[15] => product_terms.IN1
+B[15] => product_terms.IN1
+B[15] => product_terms.IN1
+B[15] => product_terms.IN1
+B[16] => product_terms.IN1
+B[16] => product_terms.IN1
+B[16] => product_terms.IN1
+B[16] => product_terms.IN1
+B[16] => product_terms.IN1
+B[16] => product_terms.IN1
+B[16] => product_terms.IN1
+B[16] => product_terms.IN1
+B[16] => product_terms.IN1
+B[16] => product_terms.IN1
+B[16] => product_terms.IN1
+B[16] => product_terms.IN1
+B[16] => product_terms.IN1
+B[16] => product_terms.IN1
+B[16] => product_terms.IN1
+B[16] => product_terms.IN1
+B[16] => product_terms.IN1
+B[16] => product_terms.IN1
+B[16] => product_terms.IN1
+B[16] => product_terms.IN1
+B[16] => product_terms.IN1
+B[17] => product_terms.IN1
+B[17] => product_terms.IN1
+B[17] => product_terms.IN1
+B[17] => product_terms.IN1
+B[17] => product_terms.IN1
+B[17] => product_terms.IN1
+B[17] => product_terms.IN1
+B[17] => product_terms.IN1
+B[17] => product_terms.IN1
+B[17] => product_terms.IN1
+B[17] => product_terms.IN1
+B[17] => product_terms.IN1
+B[17] => product_terms.IN1
+B[17] => product_terms.IN1
+B[17] => product_terms.IN1
+B[17] => product_terms.IN1
+B[17] => product_terms.IN1
+B[17] => product_terms.IN1
+B[17] => product_terms.IN1
+B[17] => product_terms.IN1
+B[17] => product_terms.IN1
+B[18] => product_terms.IN1
+B[18] => product_terms.IN1
+B[18] => product_terms.IN1
+B[18] => product_terms.IN1
+B[18] => product_terms.IN1
+B[18] => product_terms.IN1
+B[18] => product_terms.IN1
+B[18] => product_terms.IN1
+B[18] => product_terms.IN1
+B[18] => product_terms.IN1
+B[18] => product_terms.IN1
+B[18] => product_terms.IN1
+B[18] => product_terms.IN1
+B[18] => product_terms.IN1
+B[18] => product_terms.IN1
+B[18] => product_terms.IN1
+B[18] => product_terms.IN1
+B[18] => product_terms.IN1
+B[18] => product_terms.IN1
+B[18] => product_terms.IN1
+B[19] => product_terms.IN1
+B[19] => product_terms.IN1
+B[19] => product_terms.IN1
+B[19] => product_terms.IN1
+B[19] => product_terms.IN1
+B[19] => product_terms.IN1
+B[19] => product_terms.IN1
+B[19] => product_terms.IN1
+B[19] => product_terms.IN1
+B[19] => product_terms.IN1
+B[19] => product_terms.IN1
+B[19] => product_terms.IN1
+B[19] => product_terms.IN1
+B[19] => product_terms.IN1
+B[19] => product_terms.IN1
+B[19] => product_terms.IN1
+B[19] => product_terms.IN1
+B[19] => product_terms.IN1
+B[20] => product_terms.IN1
+B[20] => product_terms.IN1
+B[20] => product_terms.IN1
+B[20] => product_terms.IN1
+B[20] => product_terms.IN1
+B[20] => product_terms.IN1
+B[20] => product_terms.IN1
+B[20] => product_terms.IN1
+B[20] => product_terms.IN1
+B[20] => product_terms.IN1
+B[20] => product_terms.IN1
+B[20] => product_terms.IN1
+B[20] => product_terms.IN1
+B[20] => product_terms.IN1
+B[20] => product_terms.IN1
+B[20] => product_terms.IN1
+B[21] => product_terms.IN1
+B[22] => ~NO_FANOUT~
+B[23] => ~NO_FANOUT~
+Y[0] <= <GND>
+Y[1] <= <GND>
+Y[2] <= <GND>
+Y[3] <= <GND>
+Y[4] <= <GND>
+Y[5] <= <GND>
+Y[6] <= <GND>
+Y[7] <= <GND>
+Y[8] <= <GND>
+Y[9] <= <GND>
+Y[10] <= <GND>
+Y[11] <= <GND>
+Y[12] <= <GND>
+Y[13] <= <GND>
+Y[14] <= <GND>
+Y[15] <= <GND>
+Y[16] <= <GND>
+Y[17] <= <GND>
+Y[18] <= <GND>
+Y[19] <= <GND>
+Y[20] <= <GND>
+Y[21] <= <GND>
+Y[22] <= <GND>
+Y[23] <= <GND>
+Y[24] <= <GND>
+Y[25] <= <GND>
+Y[26] <= <GND>
+Y[27] <= <GND>
+Y[28] <= <GND>
+Y[29] <= <GND>
+Y[30] <= <GND>
+Y[31] <= <GND>
+Y[32] <= <GND>
+Y[33] <= <GND>
+Y[34] <= <GND>
+Y[35] <= <GND>
+Y[36] <= <GND>
+Y[37] <= <GND>
+Y[38] <= <GND>
+Y[39] <= <GND>
+Y[40] <= <GND>
+Y[41] <= <GND>
+Y[42] <= <GND>
+Y[43] <= <GND>
+Y[44] <= <GND>
+Y[45] <= <GND>
+Y[46] <= <GND>
+Cout <= <GND>
+
+
+|dadd_mul|HA:HA_1
+A => Y.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_1
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|HA:HA_2
+A => Y.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_2
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_3
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|HA:HA_3
+A => Y.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_4
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_5
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_6
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|HA:HA_4
+A => Y.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_7
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_8
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_9
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_10
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|HA:HA_5
+A => Y.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_11
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_12
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_13
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_14
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|HA:HA_6
+A => Y.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_15
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_16
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_17
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_18
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_19
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_20
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_21
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_22
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_23
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_24
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|HA:HA_7
+A => Y.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_25
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|HA:HA_8
+A => Y.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_26
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_27
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|HA:HA_9
+A => Y.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_28
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_29
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_30
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|HA:HA_10
+A => Y.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_31
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_32
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_33
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_34
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|HA:HA_11
+A => Y.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_35
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_36
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_37
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_38
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_39
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|HA:HA_12
+A => Y.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_40
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_41
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_42
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_43
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_44
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_45
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_46
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_47
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_48
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_49
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_50
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_51
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_52
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_53
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_54
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_55
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_56
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_57
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_58
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_59
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_60
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_61
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_62
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_63
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_64
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_65
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_66
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_67
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_68
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_69
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_70
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_71
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_72
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_73
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_74
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_75
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_76
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_77
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_78
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_79
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_80
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_81
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_82
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_83
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_84
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_85
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_86
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_87
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_88
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_89
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_90
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_91
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_92
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_93
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_94
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_95
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_96
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_97
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_98
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_99
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_100
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_101
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_102
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_103
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_104
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_105
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_106
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_107
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_108
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_109
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_110
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_111
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_112
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_113
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_114
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_115
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_116
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_117
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_118
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_119
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_120
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|HA:HA_13
+A => Y.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_121
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|HA:HA_14
+A => Y.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_122
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_123
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|HA:HA_15
+A => Y.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_124
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_125
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_126
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|HA:HA_16
+A => Y.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_127
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_128
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_129
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_130
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_131
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_132
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_133
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_134
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_135
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_136
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_137
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_138
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_139
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_140
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_141
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_142
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_143
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_144
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_145
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_146
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_147
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_148
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_149
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_150
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_151
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_152
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_153
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_154
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_155
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_156
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_157
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_158
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_159
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_160
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_161
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_162
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_163
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_164
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_165
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_166
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_167
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_168
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_169
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_170
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_171
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_172
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_173
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_174
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_175
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_176
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_177
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_178
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_179
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_180
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_181
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_182
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_183
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_184
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_185
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_186
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_187
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_188
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_189
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_190
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_191
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_192
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_193
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_194
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_195
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_196
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_197
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_198
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_199
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_200
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_201
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_202
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_203
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_204
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_205
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_206
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_207
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_208
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_209
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_210
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_211
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_212
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_213
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_214
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_215
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_216
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_217
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_218
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_219
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_220
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_221
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_222
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_223
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_224
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|HA:HA_17
+A => Y.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_225
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|HA:HA_18
+A => Y.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_226
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_227
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|HA:HA_19
+A => Y.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_228
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_229
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_230
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_231
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_232
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_233
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_234
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_235
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_236
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_237
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_238
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_239
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_240
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_241
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_242
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_243
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_244
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_245
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_246
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_247
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_248
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_249
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_250
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_251
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_252
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_253
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_254
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_255
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_256
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_257
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_258
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_259
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_260
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_261
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_262
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_263
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_264
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_265
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_266
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_267
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_268
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_269
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_270
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_271
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_272
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_273
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_274
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_275
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_276
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_277
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_278
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_279
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_280
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_281
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_282
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_283
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_284
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_285
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_286
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_287
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_288
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_289
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_290
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_291
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_292
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_293
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_294
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_295
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_296
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_297
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_298
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_299
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_300
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_301
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_302
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_303
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_304
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_305
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_306
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_307
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_308
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_309
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_310
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_311
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_312
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_313
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_314
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_315
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_316
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_317
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_318
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_319
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_320
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_321
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_322
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|dadd_mul|FA:FA_323
+A => Y.IN0
+A => Cout.IN0
+A => Cout.IN0
+B => Y.IN1
+B => Cout.IN1
+B => Cout.IN1
+Cin => Y.IN1
+Cin => Cout.IN1
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
