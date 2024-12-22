@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Sun Dec 22 23:22:53 2024
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : Instruction_Memory
+Top-level Entity Name : Instruction_Memory
+Family : MAX 10
+Total logic elements : 84
+    Total combinational functions : 84
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 64
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

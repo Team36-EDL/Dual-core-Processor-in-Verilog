@@ -1,5 +1,5 @@
-Analysis & Elaboration report for Data_Memory
-Thu Dec 12 12:41:11 2024
+Analysis & Synthesis report for Data_Memory
+Sun Dec 22 21:03:11 2024
 Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
 
 
@@ -7,11 +7,18 @@ Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
 ; Table of Contents ;
 ---------------------
   1. Legal Notice
-  2. Analysis & Elaboration Summary
-  3. Parallel Compilation
-  4. Analysis & Elaboration Settings
-  5. Analysis & Elaboration Messages
-  6. Analysis & Elaboration Suppressed Messages
+  2. Analysis & Synthesis Summary
+  3. Analysis & Synthesis Settings
+  4. Parallel Compilation
+  5. Analysis & Synthesis Source Files Read
+  6. Analysis & Synthesis Resource Usage Summary
+  7. Analysis & Synthesis Resource Utilization by Entity
+  8. General Register Statistics
+  9. Multiplexer Restructuring Statistics (Restructuring Performed)
+ 10. Post-Synthesis Netlist Statistics for Top Partition
+ 11. Elapsed Time Per Partition
+ 12. Analysis & Synthesis Messages
+ 13. Analysis & Synthesis Suppressed Messages
 
 
 
@@ -35,45 +42,29 @@ refer to the applicable agreement for further details.
 
 
 +----------------------------------------------------------------------------------+
-; Analysis & Elaboration Summary                                                   ;
+; Analysis & Synthesis Summary                                                     ;
 +------------------------------------+---------------------------------------------+
-; Analysis & Elaboration Status      ; Successful - Thu Dec 12 12:41:11 2024       ;
+; Analysis & Synthesis Status        ; Successful - Sun Dec 22 21:03:11 2024       ;
 ; Quartus Prime Version              ; 18.1.0 Build 625 09/12/2018 SJ Lite Edition ;
 ; Revision Name                      ; Data_Memory                                 ;
 ; Top-level Entity Name              ; Data_Memory                                 ;
 ; Family                             ; MAX 10                                      ;
-; Total logic elements               ; N/A until Partition Merge                   ;
-;     Total combinational functions  ; N/A until Partition Merge                   ;
-;     Dedicated logic registers      ; N/A until Partition Merge                   ;
-; Total registers                    ; N/A until Partition Merge                   ;
-; Total pins                         ; N/A until Partition Merge                   ;
-; Total virtual pins                 ; N/A until Partition Merge                   ;
-; Total memory bits                  ; N/A until Partition Merge                   ;
-; Embedded Multiplier 9-bit elements ; N/A until Partition Merge                   ;
-; Total PLLs                         ; N/A until Partition Merge                   ;
-; UFM blocks                         ; N/A until Partition Merge                   ;
-; ADC blocks                         ; N/A until Partition Merge                   ;
+; Total logic elements               ; 72                                          ;
+;     Total combinational functions  ; 40                                          ;
+;     Dedicated logic registers      ; 32                                          ;
+; Total registers                    ; 32                                          ;
+; Total pins                         ; 133                                         ;
+; Total virtual pins                 ; 0                                           ;
+; Total memory bits                  ; 0                                           ;
+; Embedded Multiplier 9-bit elements ; 0                                           ;
+; Total PLLs                         ; 0                                           ;
+; UFM blocks                         ; 0                                           ;
+; ADC blocks                         ; 0                                           ;
 +------------------------------------+---------------------------------------------+
 
 
-+------------------------------------------+
-; Parallel Compilation                     ;
-+----------------------------+-------------+
-; Processors                 ; Number      ;
-+----------------------------+-------------+
-; Number detected on machine ; 4           ;
-; Maximum allowed            ; 2           ;
-;                            ;             ;
-; Average used               ; 1.00        ;
-; Maximum used               ; 1           ;
-;                            ;             ;
-; Usage by Processor         ; % Time Used ;
-;     Processor 1            ; 100.0%      ;
-+----------------------------+-------------+
-
-
 +------------------------------------------------------------------------------------------------------------+
-; Analysis & Elaboration Settings                                                                            ;
+; Analysis & Synthesis Settings                                                                              ;
 +------------------------------------------------------------------+--------------------+--------------------+
 ; Option                                                           ; Setting            ; Default Value      ;
 +------------------------------------------------------------------+--------------------+--------------------+
@@ -158,32 +149,193 @@ refer to the applicable agreement for further details.
 +------------------------------------------------------------------+--------------------+--------------------+
 
 
-+---------------------------------+
-; Analysis & Elaboration Messages ;
-+---------------------------------+
++------------------------------------------+
+; Parallel Compilation                     ;
++----------------------------+-------------+
+; Processors                 ; Number      ;
++----------------------------+-------------+
+; Number detected on machine ; 8           ;
+; Maximum allowed            ; 4           ;
+;                            ;             ;
+; Average used               ; 1.00        ;
+; Maximum used               ; 1           ;
+;                            ;             ;
+; Usage by Processor         ; % Time Used ;
+;     Processor 1            ; 100.0%      ;
++----------------------------+-------------+
+
+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Source Files Read                                                                                                                      ;
++----------------------------------+-----------------+------------------------+---------------------------------------------------------------------+---------+
+; File Name with User-Entered Path ; Used in Netlist ; File Type              ; File Name with Absolute Path                                        ; Library ;
++----------------------------------+-----------------+------------------------+---------------------------------------------------------------------+---------+
+; Data_Memory.v                    ; yes             ; User Verilog HDL File  ; C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v ;         ;
++----------------------------------+-----------------+------------------------+---------------------------------------------------------------------+---------+
+
+
++-------------------------------------------------------+
+; Analysis & Synthesis Resource Usage Summary           ;
++---------------------------------------------+---------+
+; Resource                                    ; Usage   ;
++---------------------------------------------+---------+
+; Estimated Total logic elements              ; 72      ;
+;                                             ;         ;
+; Total combinational functions               ; 40      ;
+; Logic element usage by number of LUT inputs ;         ;
+;     -- 4 input functions                    ; 20      ;
+;     -- 3 input functions                    ; 20      ;
+;     -- <=2 input functions                  ; 0       ;
+;                                             ;         ;
+; Logic elements by mode                      ;         ;
+;     -- normal mode                          ; 40      ;
+;     -- arithmetic mode                      ; 0       ;
+;                                             ;         ;
+; Total registers                             ; 32      ;
+;     -- Dedicated logic registers            ; 32      ;
+;     -- I/O registers                        ; 0       ;
+;                                             ;         ;
+; I/O pins                                    ; 133     ;
+;                                             ;         ;
+; Embedded Multiplier 9-bit elements          ; 0       ;
+;                                             ;         ;
+; Maximum fan-out node                        ; Q[7]~32 ;
+; Maximum fan-out                             ; 32      ;
+; Total fan-out                               ; 433     ;
+; Average fan-out                             ; 1.28    ;
++---------------------------------------------+---------+
+
+
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Resource Utilization by Entity                                                                                                                                                                                ;
++----------------------------+---------------------+---------------------------+-------------+------------+--------------+---------+-----------+------+--------------+------------+---------------------+-------------+--------------+
+; Compilation Hierarchy Node ; Combinational ALUTs ; Dedicated Logic Registers ; Memory Bits ; UFM Blocks ; DSP Elements ; DSP 9x9 ; DSP 18x18 ; Pins ; Virtual Pins ; ADC blocks ; Full Hierarchy Name ; Entity Name ; Library Name ;
++----------------------------+---------------------+---------------------------+-------------+------------+--------------+---------+-----------+------+--------------+------------+---------------------+-------------+--------------+
+; |Data_Memory               ; 40 (40)             ; 32 (32)                   ; 0           ; 0          ; 0            ; 0       ; 0         ; 133  ; 0            ; 0          ; |Data_Memory        ; Data_Memory ; work         ;
++----------------------------+---------------------+---------------------------+-------------+------------+--------------+---------+-----------+------+--------------+------------+---------------------+-------------+--------------+
+Note: For table entries with two numbers listed, the numbers in parentheses indicate the number of resources of the given type used by the specific entity alone. The numbers listed outside of parentheses indicate the total resources of the given type used by the specific entity and all of its sub-entities in the hierarchy.
+
+
++------------------------------------------------------+
+; General Register Statistics                          ;
++----------------------------------------------+-------+
+; Statistic                                    ; Value ;
++----------------------------------------------+-------+
+; Total registers                              ; 32    ;
+; Number of registers using Synchronous Clear  ; 0     ;
+; Number of registers using Synchronous Load   ; 0     ;
+; Number of registers using Asynchronous Clear ; 0     ;
+; Number of registers using Asynchronous Load  ; 0     ;
+; Number of registers using Clock Enable       ; 32    ;
+; Number of registers using Preset             ; 0     ;
++----------------------------------------------+-------+
+
+
++------------------------------------------------------------------------------------------------------------------------------------------+
+; Multiplexer Restructuring Statistics (Restructuring Performed)                                                                           ;
++--------------------+-----------+---------------+----------------------+------------------------+------------+----------------------------+
+; Multiplexer Inputs ; Bus Width ; Baseline Area ; Area if Restructured ; Saving if Restructured ; Registered ; Example Multiplexer Output ;
++--------------------+-----------+---------------+----------------------+------------------------+------------+----------------------------+
+; 3:1                ; 8 bits    ; 16 LEs        ; 0 LEs                ; 16 LEs                 ; Yes        ; |Data_Memory|memory[0][8]  ;
+; 3:1                ; 8 bits    ; 16 LEs        ; 8 LEs                ; 8 LEs                  ; Yes        ; |Data_Memory|memory[0][0]  ;
+; 3:1                ; 7 bits    ; 14 LEs        ; 7 LEs                ; 7 LEs                  ; No         ; |Data_Memory|Mux0          ;
++--------------------+-----------+---------------+----------------------+------------------------+------------+----------------------------+
+
+
++-----------------------------------------------------+
+; Post-Synthesis Netlist Statistics for Top Partition ;
++-----------------------+-----------------------------+
+; Type                  ; Count                       ;
++-----------------------+-----------------------------+
+; boundary_port         ; 133                         ;
+; cycloneiii_ff         ; 32                          ;
+;     ENA               ; 32                          ;
+; cycloneiii_io_obuf    ; 32                          ;
+; cycloneiii_lcell_comb ; 40                          ;
+;     normal            ; 40                          ;
+;         3 data inputs ; 20                          ;
+;         4 data inputs ; 20                          ;
+;                       ;                             ;
+; Max LUT depth         ; 4.00                        ;
+; Average LUT depth     ; 1.50                        ;
++-----------------------+-----------------------------+
+
+
++-------------------------------+
+; Elapsed Time Per Partition    ;
++----------------+--------------+
+; Partition Name ; Elapsed Time ;
++----------------+--------------+
+; Top            ; 00:00:00     ;
++----------------+--------------+
+
+
++-------------------------------+
+; Analysis & Synthesis Messages ;
++-------------------------------+
 Info: *******************************************************************
-Info: Running Quartus Prime Analysis & Elaboration
+Info: Running Quartus Prime Analysis & Synthesis
     Info: Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
-    Info: Processing started: Thu Dec 12 12:40:45 2024
-Info: Command: quartus_map --read_settings_files=on --write_settings_files=off Data_Memory -c Data_Memory --analysis_and_elaboration
+    Info: Processing started: Sun Dec 22 21:02:58 2024
+Info: Command: quartus_map --read_settings_files=on --write_settings_files=off Data_Memory -c Data_Memory
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
-Info (20030): Parallel compilation is enabled and will use 2 of the 2 processors detected
+Info (20030): Parallel compilation is enabled and will use 4 of the 4 processors detected
 Info (12021): Found 1 design units, including 1 entities, in source file data_memory.v
-    Info (12023): Found entity 1: Data_Memory File: C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/Data_Memory/Data_Memory.v Line: 1
+    Info (12023): Found entity 1: Data_Memory File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 1
 Info (12021): Found 1 design units, including 1 entities, in source file data_memory_tb.v
-    Info (12023): Found entity 1: Data_Memory_TB File: C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/Data_Memory/Data_Memory_TB.v Line: 1
+    Info (12023): Found entity 1: Data_Memory_TB File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory_TB.v Line: 3
 Info (12127): Elaborating entity "Data_Memory" for the top level hierarchy
-Info (144001): Generated suppressed messages file C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/Data_Memory/output_files/Data_Memory.map.smsg
-Info: Quartus Prime Analysis & Elaboration was successful. 0 errors, 1 warning
-    Info: Peak virtual memory: 4708 megabytes
-    Info: Processing ended: Thu Dec 12 12:41:11 2024
-    Info: Elapsed time: 00:00:26
-    Info: Total CPU time (on all processors): 00:00:21
+Info (286030): Timing-Driven Synthesis is running
+Info (144001): Generated suppressed messages file C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/output_files/Data_Memory.map.smsg
+Info (16010): Generating hard_block partition "hard_block:auto_generated_inst"
+    Info (16011): Adding 0 node(s), including 0 DDIO, 0 PLL, 0 transceiver and 0 LCELL
+Warning (21074): Design contains 32 input pin(s) that do not drive logic
+    Warning (15610): No output dependent on input pin "Rd[0]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[1]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[2]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[3]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[4]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[5]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[6]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[7]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[8]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[9]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[10]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[11]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[12]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[13]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[14]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[15]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[16]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[17]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[18]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[19]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[20]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[21]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[22]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[23]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[24]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[25]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[26]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[27]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[28]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[29]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[30]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+    Warning (15610): No output dependent on input pin "Rd[31]" File: C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/Data_Memory.v Line: 3
+Info (21057): Implemented 205 device resources after synthesis - the final resource count might be different
+    Info (21058): Implemented 101 input pins
+    Info (21059): Implemented 32 output pins
+    Info (21061): Implemented 72 logic cells
+Info: Quartus Prime Analysis & Synthesis was successful. 0 errors, 34 warnings
+    Info: Peak virtual memory: 4751 megabytes
+    Info: Processing ended: Sun Dec 22 21:03:11 2024
+    Info: Elapsed time: 00:00:13
+    Info: Total CPU time (on all processors): 00:00:09
 
 
-+--------------------------------------------+
-; Analysis & Elaboration Suppressed Messages ;
-+--------------------------------------------+
-The suppressed messages can be found in C:/Users/kajal/OneDrive/Desktop/EDL/Verilog/Data_Memory/output_files/Data_Memory.map.smsg.
++------------------------------------------+
+; Analysis & Synthesis Suppressed Messages ;
++------------------------------------------+
+The suppressed messages can be found in C:/Users/Dhruv/OneDrive/Documents/Verilog/Data_Memory/output_files/Data_Memory.map.smsg.
 
 
